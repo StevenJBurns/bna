@@ -12,10 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/StevenJBurns/bna.git"
   },
-
   "bugs": {
     "url": "https://github.com/StevenJBurns/bna/issues"
   },
   "homepage": "https://github.com/StevenJBurns/bna#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
